@@ -1,4 +1,3 @@
-from lxml.html import fromstring,tostring
 import requests
 
 def download(url,user_agent):
